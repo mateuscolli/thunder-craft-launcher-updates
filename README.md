@@ -3,7 +3,7 @@ Launcher Minecraft para o servidor ThunderCraft<br/>
 > Desenvolvido por [Nebula Code](https://discord.gg/2qsSkqDxFP)
 
 ## ✨ Demo
-![Launcher](thundercraft launcher.png)
+![Launcher](thundercraft_launcher.png)
 
 ## 📝 License
 Copyright © ThunderCraft<br/>
