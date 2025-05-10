@@ -1,1 +1,10 @@
-# thunder-craft-launcher-updates
+# 🚀 ThunderCraft Launcher
+Launcher Minecraft para o servidor ThunderCraft<br/>
+> Desenvolvido por [Nebula Code](https://discord.gg/2qsSkqDxFP)
+
+## ✨ Demo
+![Launcher](image.png)
+
+## 📝 License
+Copyright © ThunderCraft<br/>
+Esse projeto é licenciado pelo [MIT](https://choosealicense.com/licenses/mit/)
